@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Light_Blue_Theme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#0D47A1</item>
+        <item name="colorAccent">#E3F2FD</item>
+        <item name="theme_textColor">@color/green_apple</item>
+        <item name="theme_textSize">15sp</item>
+    </style>
+
+    <style name="Light_Green_Theme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#1B5E20</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="theme_textColor">@color/green_apple</item>
+        <item name="theme_textSize">15sp</item>
+    </style>
+
+    <style name="Light_Pink_Theme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#880E4F</item>
+        <item name="colorAccent">#E3F2FD</item>
+        <item name="theme_textColor">@color/green_apple</item>
+        <item name="theme_textSize">15sp</item>
+    </style>
+
+    <style name="Dark_Blue_Theme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#0D47A1</item>
+        <item name="colorAccent">#E3F2FD</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="theme_textColor">@color/white</item>
+        <item name="theme_textSize">15sp</item>
+    </style>
+
+    <style name="Dark_Green_Theme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#1B5E20</item>
+        <item name="colorAccent">#E3F2FD</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="theme_textColor">@color/white</item>
+        <item name="theme_textSize">15sp</item>
+    </style>
+
+    <style name="Dark_Pink_Theme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#880E4F</item>
+        <item name="colorAccent">#E3F2FD</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="theme_textColor">@color/white</item>
+        <item name="theme_textSize">15sp</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="theme_textColor" format="color" />
+    <attr name="theme_textSize" format="dimension" />
+
+</resources>
